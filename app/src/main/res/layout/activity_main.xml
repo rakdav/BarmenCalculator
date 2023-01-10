@@ -7,6 +7,7 @@
     android:orientation="vertical"
     android:padding="@dimen/window"
     android:background="#F00"
+    android:id="@+id/root"
     tools:context=".MainActivity">
     <EditText
         android:layout_width="match_parent"
@@ -54,8 +55,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/procent"
+        android:id="@+id/taple"
         android:textSize="@dimen/font"/>
-
-
 
 </LinearLayout>
