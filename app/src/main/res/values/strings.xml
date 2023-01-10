@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Калькулятор бармена</string>
+    <string name="hint">Введите стоимость заказа</string>
+    <string name="red">Красный</string>
+    <string name="green">Зеленый</string>
+    <string name="procent">Чаевые</string>
+</resources>
